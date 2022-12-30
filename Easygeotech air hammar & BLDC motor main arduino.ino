@@ -49,7 +49,7 @@ int D20 = 0;
 int D21 = 0; 
 int D22 = 0; 
 int D23 = 0;
-int D24 = 0; 
+int D24 = 0;  
 int D25 = 0; 
 
 int D26 = 0; 
